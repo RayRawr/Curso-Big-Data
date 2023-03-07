@@ -16,4 +16,13 @@ M6 - 01 - Python Notebook
 
 M6 - 02 - Condicionales
 
+M6 - 03 - Bucles
+
 M6 - Avanzado 1 - SpaceX Data Collection Api
+
+M6 - Avanzado 2 - SpaceX EDA
+
+
+## Día 3 - Miércoles 08-03-23
+
+-
