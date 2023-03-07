@@ -15,4 +15,5 @@ M6 - 01 - Python Notebook
 ## Día 2 - Martes 07-03-23
 
 M6 - 02 - Condicionales
+
 M6 - Avanzado 1 - SpaceX Data Collection Api
