@@ -7,7 +7,8 @@ Lenguaje utilizado: Python
 Explicación
 
 M6 - 01 - Python Notebook
+M6 - 02 - Condicionales
 
 ## Día 2 - Martes 07-03-23
 
-M6 - 02 - Condicionales
+
