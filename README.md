@@ -20,9 +20,20 @@ M6 - 03 - Bucles
 
 M6 - Avanzado 1 - SpaceX Data Collection Api
 
-M6 - Avanzado 2 - SpaceX EDA
+~~M6 - Avanzado 2 - SpaceX EDA~~
 
 
 ## Día 3 - Miércoles 08-03-23
+
+M6 - 04 - Programación Funcional
+
+~~M6 - Avanzado 3 - SpaceX Machine Learning Predicciones~~
+
+
+## Día 4 - Jueves 09-03-23
+
+-
+
+## Día 5 - Viernes 10-03-23
 
 -
