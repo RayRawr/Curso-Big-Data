@@ -28,9 +28,12 @@ M6 - 04 - Programación Funcional
 
 ## Día 4 - Jueves 09-03-23
 
-M6 - 07 - Transformaciones y Acciones sobre RDDs
+M6 - 05 - SparkSession Teoría
+
+M6 - 06 - Primer RDD Teoría
+
 
 
 ## Día 5 - Viernes 10-03-23
 
--
+M6 - 07 - Transformaciones y Acciones sobre RDDs
